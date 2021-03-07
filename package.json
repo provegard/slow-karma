@@ -1,0 +1,26 @@
+{
+  "name": "slow-karma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/provegard/slow-karma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/provegard/slow-karma/issues"
+  },
+  "homepage": "https://github.com/provegard/slow-karma#readme",
+  "devDependencies": {
+    "jasmine-core": "^3.6.0",
+    "karma": "^6.1.1",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^4.0.1"
+  }
+}
