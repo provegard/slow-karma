@@ -23,7 +23,7 @@ for (let i = 0; i < 40; i++) {
 
 line = (i) => `export echo${i} = (x) -> x\n`
 let contents = line("")
-for (let i = 0; i < 10000; i++) {
+for (let i = 0; i < 2000; i++) {
     contents += line("" + (i + 1)) + "\n"
 }
 fs.writeFileSync(path.join("src", "main.coffee"), contents, { encoding: "utf-8" })
