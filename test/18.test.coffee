@@ -1,403 +1,403 @@
 import { echo } from "../src/main"
-describe("18", () -> {
-    it("test 18-1", () -> {
+describe "18", ->
+    it "test 18-1", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-2", () -> {
+
+    it "test 18-2", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-3", () -> {
+
+    it "test 18-3", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-4", () -> {
+    it "test 18-4", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-5", () -> {
+
+    it "test 18-5", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-6", () -> {
+
+    it "test 18-6", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-7", () -> {
+    it "test 18-7", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-8", () -> {
+
+    it "test 18-8", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-9", () -> {
+
+    it "test 18-9", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-10", () -> {
+    it "test 18-10", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-11", () -> {
+
+    it "test 18-11", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-12", () -> {
+
+    it "test 18-12", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-13", () -> {
+    it "test 18-13", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-14", () -> {
+
+    it "test 18-14", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-15", () -> {
+
+    it "test 18-15", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-16", () -> {
+    it "test 18-16", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-17", () -> {
+
+    it "test 18-17", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-18", () -> {
+
+    it "test 18-18", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-19", () -> {
+    it "test 18-19", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-20", () -> {
+
+    it "test 18-20", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-21", () -> {
+
+    it "test 18-21", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-22", () -> {
+    it "test 18-22", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-23", () -> {
+
+    it "test 18-23", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-24", () -> {
+    it "test 18-24", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-25", () -> {
+
+    it "test 18-25", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-26", () -> {
+    it "test 18-26", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-27", () -> {
+
+    it "test 18-27", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-28", () -> {
+
+    it "test 18-28", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-29", () -> {
+    it "test 18-29", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-30", () -> {
+
+    it "test 18-30", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-31", () -> {
+
+    it "test 18-31", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-32", () -> {
+    it "test 18-32", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-33", () -> {
+
+    it "test 18-33", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-34", () -> {
+
+    it "test 18-34", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-35", () -> {
+    it "test 18-35", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-36", () -> {
+
+    it "test 18-36", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-37", () -> {
+
+    it "test 18-37", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-38", () -> {
+    it "test 18-38", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-39", () -> {
+
+    it "test 18-39", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-40", () -> {
+
+    it "test 18-40", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-41", () -> {
+    it "test 18-41", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-42", () -> {
+
+    it "test 18-42", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-43", () -> {
+
+    it "test 18-43", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-44", () -> {
+    it "test 18-44", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-45", () -> {
+
+    it "test 18-45", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-46", () -> {
+
+    it "test 18-46", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-47", () -> {
+    it "test 18-47", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-48", () -> {
+
+    it "test 18-48", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-49", () -> {
+    it "test 18-49", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-50", () -> {
+
+    it "test 18-50", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-51", () -> {
+    it "test 18-51", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-52", () -> {
+
+    it "test 18-52", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-53", () -> {
+
+    it "test 18-53", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-54", () -> {
+    it "test 18-54", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-55", () -> {
+
+    it "test 18-55", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-56", () -> {
+
+    it "test 18-56", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-57", () -> {
+    it "test 18-57", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-58", () -> {
+
+    it "test 18-58", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-59", () -> {
+
+    it "test 18-59", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-60", () -> {
+    it "test 18-60", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-61", () -> {
+
+    it "test 18-61", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-62", () -> {
+
+    it "test 18-62", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-63", () -> {
+    it "test 18-63", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-64", () -> {
+
+    it "test 18-64", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-65", () -> {
+
+    it "test 18-65", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-66", () -> {
+    it "test 18-66", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-67", () -> {
+
+    it "test 18-67", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-68", () -> {
+
+    it "test 18-68", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-69", () -> {
+    it "test 18-69", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-70", () -> {
+
+    it "test 18-70", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-71", () -> {
+
+    it "test 18-71", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-72", () -> {
+    it "test 18-72", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-73", () -> {
+
+    it "test 18-73", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-74", () -> {
+    it "test 18-74", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-75", () -> {
+
+    it "test 18-75", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-76", () -> {
+    it "test 18-76", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-77", () -> {
+
+    it "test 18-77", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-78", () -> {
+
+    it "test 18-78", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-79", () -> {
+    it "test 18-79", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-80", () -> {
+
+    it "test 18-80", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-81", () -> {
+
+    it "test 18-81", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-82", () -> {
+    it "test 18-82", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-83", () -> {
+
+    it "test 18-83", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-84", () -> {
+
+    it "test 18-84", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-85", () -> {
+    it "test 18-85", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-86", () -> {
+
+    it "test 18-86", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-87", () -> {
+    it "test 18-87", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-88", () -> {
+
+    it "test 18-88", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-89", () -> {
+    it "test 18-89", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-90", () -> {
+
+    it "test 18-90", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-91", () -> {
+
+    it "test 18-91", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-92", () -> {
+    it "test 18-92", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-93", () -> {
+
+    it "test 18-93", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-94", () -> {
+
+    it "test 18-94", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-95", () -> {
+    it "test 18-95", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-96", () -> {
+
+    it "test 18-96", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-97", () -> {
+
+    it "test 18-97", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-98", () -> {
+    it "test 18-98", ->
         expect(echo true).toBeTrue()
-    })
 
-    it("test 18-99", () -> {
+
+    it "test 18-99", ->
         expect(echo true).toBeTrue()
-    })
+
 
-    it("test 18-100", () -> {
+    it "test 18-100", ->
         expect(echo true).toBeTrue()
-    })
+
+
 
-})
